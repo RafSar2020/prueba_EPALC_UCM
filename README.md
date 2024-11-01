@@ -4,3 +4,5 @@ Repositorio de prueba ENFOQUES Y PROGRAMACIÓN AVANZADA EN LINGÜÍSTICA COMPUTA
 Línea añadida desde la rama 'rama_1'
 Nueva línea de comprobación añadida desde rama_1
 Línea añadida desde la rama 'rama_1'
+Nueva línea de comprobación añadida desde rama_1
+Nueva línea de comprobación añadida desde rama_1
